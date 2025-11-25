@@ -27,9 +27,11 @@ setInterval(updateCountdown, 1000);
 // Gallery arrays
 const galleries = {
     cuteYou: [
-        { src: "pic1.jpg", caption: captionsCuteYou[0] },
-        { src: "pic2.jpg", caption: captionsCuteYou[1] },
-        { src: "pic3.jpg", caption: captionsCuteYou[2] }
+        { src: "pics/Cute You/pic1.jpg", caption: captionsCuteYou[0] },
+        { src: "pics/Cute You/pic2.jpg", caption: captionsCuteYou[1] },
+        { src: "pics/Cute You/pic3.jpg", caption: captionsCuteYou[2] },
+        { src: "pics/Cute You/pic4.jpg", caption: captionsCuteYou[3] },
+        { src: "pics/Cute You/pic5.jpg", caption: captionsCuteYou[4] }
     ],
     milestone: [
         { src: "pics/mile/Mpic1.jpg", caption: captionsMilestone[0] },
@@ -38,9 +40,10 @@ const galleries = {
         { src: "pics/mile/Mpic4.jpg", caption: captionsMilestone[3] }
     ],
     twoK25: [
-        { src: "2k25_1.jpg", caption: captions2k25[0] },
-        { src: "2k25_2.jpg", caption: captions2k25[1] },
-        { src: "2k25_3.jpg", caption: captions2k25[2] }
+        { src: "pics/2k25/2k25_1.jpg", caption: captions2k25[0] },
+        { src: "pics/2k25/2k25_2.jpg", caption: captions2k25[1] },
+        { src: "pics/2k25/2k25_3.jpg", caption: captions2k25[2] },
+        { src: "pics/2k25/2k25_4.jpg", caption: captions2k25[3] }
     ]
 };
 
